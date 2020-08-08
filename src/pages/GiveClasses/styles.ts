@@ -30,6 +30,21 @@ const styles = StyleSheet.create({
     maxWidth: 240,
   },
 
+  webLinkButton: {},
+
+  webLink: {
+    marginTop: 18,
+    marginLeft: 8,
+    color: '#04d361',
+    fontSize: 14,
+    lineHeight: 26,
+    fontFamily: 'Poppins_400Regular',
+    maxWidth: 240,
+
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+
   okButton: {
     marginVertical: 40,
     backgroundColor: '#04d361',
